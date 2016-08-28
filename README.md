@@ -9,6 +9,10 @@ install java platform (jdk) below, then unzip the download from above to a folde
 
 i put the workspace in `c:\a\j\e\workspaces`
 
+a workspace is a container for projects
+
+from the ide, choose `file-change workspace`
+
 ## java platform (jdk)
 
 [install](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
