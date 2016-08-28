@@ -29,6 +29,18 @@ From the Eclipse IDE, choose Help-Install New Software
 
 [egit users guide](https://wiki.eclipse.org/EGit/User_Guide)
 
+## create github repo
+
+## clone repo using source tree
+
+## from eclipse ide, select repo as workspace
+
+## from eclipse ide, create new project: `File-New-Static Web Project`
+
+## add index.html to `WebContent` folder
+
+## from project explorer: project-right click-Team-Commit
+
 ## hbase
 
 [hbase book](http://hbase.apache.org/book.html)
