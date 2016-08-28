@@ -11,3 +11,6 @@ learning quick start
 
 i installed Java SE Development Kit 8u102
 
+## hbase
+
+[hbase book](http://hbase.apache.org/book.html)
