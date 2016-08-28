@@ -19,4 +19,4 @@
 > * Extensible jruby-based (JIRB) shell
 > * Support for exporting metrics via the Hadoop metrics subsystem to files or Ganglia; or via JMX
 
-## [Architecture]()
+## [Architecture](http://hbase.apache.org/book.html#arch.overview)
