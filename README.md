@@ -28,3 +28,4 @@ From the Eclipse IDE, choose Help-Install New Software
 ## hbase
 
 [hbase book](http://hbase.apache.org/book.html)
+
