@@ -17,6 +17,12 @@ i installed Java SE Development Kit 8u102
 
 [docs](http://docs.oracle.com/javase/8/docs/)
 
+## install Eclipse GitHub integration with task focused interface
+
+From the Eclipse IDE, choose Help-Install New Software
+
+![image](https://cloud.githubusercontent.com/assets/10272832/18037281/606c1e1e-6d3d-11e6-8edf-f9cf48b3567a.png)
+
 ## hbase
 
 [hbase book](http://hbase.apache.org/book.html)
